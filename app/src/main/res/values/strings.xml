@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Log2</string>
+    <string name="gen_log">Generate Log</string>
+</resources>
